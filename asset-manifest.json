@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/InternationalSpaceStation/static/css/main.abdfacd3.css",
+    "main.js": "/InternationalSpaceStation/static/js/main.5f4fc366.js",
+    "static/js/787.783bf20a.chunk.js": "/InternationalSpaceStation/static/js/787.783bf20a.chunk.js",
+    "static/media/ISS_bg.jpeg": "/InternationalSpaceStation/static/media/ISS_bg.011f9f7d5b22e7dcbebd.jpeg",
+    "index.html": "/InternationalSpaceStation/index.html",
+    "main.abdfacd3.css.map": "/InternationalSpaceStation/static/css/main.abdfacd3.css.map",
+    "main.5f4fc366.js.map": "/InternationalSpaceStation/static/js/main.5f4fc366.js.map",
+    "787.783bf20a.chunk.js.map": "/InternationalSpaceStation/static/js/787.783bf20a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abdfacd3.css",
+    "static/js/main.5f4fc366.js"
+  ]
+}
